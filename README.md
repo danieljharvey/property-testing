@@ -1,5 +1,15 @@
 # Property testing with fast-check
 
+## Installing and running the examples
+
+```bash
+git clone https://github.com/danieljharvey/property-testing
+
+yarn install
+
+yarn jest --watchAll
+```
+
 ## The title of this talk is
 
 - "property testing"
