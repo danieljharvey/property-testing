@@ -1,13 +1,5 @@
 # Property testing with fast-check
 
-## Hi
-
-## My name is Daniel J Harvey
-
-## I am a software engineer
-
-## To some extent
-
 ## The title of this talk is
 
 - "property testing"
